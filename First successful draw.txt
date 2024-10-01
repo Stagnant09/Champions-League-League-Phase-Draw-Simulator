@@ -1,0 +1,36 @@
+Real Madrid has 8 opponents: Inter Milan, Paris-Saint Germain, Club Brugge, AC Milan, Lille, Celtic, Slovan Bratislava, VfB Stuttgart
+Manchester City has 8 opponents: Borussia Dortmund, Liverpool, Atalanta, Bayer Leverkusen, Feyenoord, Red Star Belgrade, Brest, Girona
+Bayern Munich has 8 opponents: Barcelona, Paris-Saint Germain, Juventus, Club Brugge, Sporting CP, Red Bull Salzburg, Sparta Prague, Girona
+Paris-Saint Germain has 8 opponents: Real Madrid, Bayern Munich, Arsenal, Benfica, Celtic, Young Boys, Aston Villa, Brest
+Liverpool has 8 opponents: Manchester City, RB Leipzig, Juventus, Atletico Madrid, Young Boys, PSV Eindhoven, Monaco, Slovan Bratislava
+Inter Milan has 8 opponents: Borussia Dortmund, Real Madrid, AC Milan, Bayer Leverkusen, PSV Eindhoven, Sporting CP, Sparta Prague, VfB Stuttgart
+Borussia Dortmund has 8 opponents: Manchester City, Inter Milan, Arsenal, Atalanta, Red Star Belgrade, Red Bull Salzburg, Sturm Graz, Monaco
+RB Leipzig has 8 opponents: Barcelona, Liverpool, Shakhtar Donetsk, Benfica, Dinamo Zagreb, Feyenoord, Bologna, Sturm Graz
+Barcelona has 8 opponents: Bayern Munich, RB Leipzig, Atletico Madrid, Shakhtar Donetsk, Dinamo Zagreb, Lille, Aston Villa, Bologna
+Bayer Leverkusen has 8 opponents: Manchester City, Inter Milan, Benfica, AC Milan, Sporting CP, Red Star Belgrade, VfB Stuttgart, Sparta Prague
+Juventus has 8 opponents: Liverpool, Bayern Munich, Shakhtar Donetsk, Atletico Madrid, Young Boys, Lille, Brest, Girona
+Atletico Madrid has 8 opponents: Barcelona, Liverpool, Atalanta, Juventus, PSV Eindhoven, Red Star Belgrade, Sturm Graz, Slovan Bratislava
+Benfica has 8 opponents: RB Leipzig, Paris-Saint Germain, Club Brugge, Bayer Leverkusen, Celtic, Sporting CP, Aston Villa, Sturm Graz
+Atalanta has 8 opponents: Manchester City, Borussia Dortmund, Atletico Madrid, Arsenal, Feyenoord, Lille, Slovan Bratislava, Bologna
+Arsenal has 8 opponents: Borussia Dortmund, Paris-Saint Germain, Atalanta, Shakhtar Donetsk, Dinamo Zagreb, Feyenoord, Sparta Prague, Monaco
+Club Brugge has 8 opponents: Bayern Munich, Real Madrid, Benfica, AC Milan, Young Boys, PSV Eindhoven, Monaco, VfB Stuttgart
+Shakhtar Donetsk has 8 opponents: Barcelona, RB Leipzig, Juventus, Arsenal, Dinamo Zagreb, Red Bull Salzburg, Brest, Bologna
+AC Milan has 8 opponents: Inter Milan, Real Madrid, Club Brugge, Bayer Leverkusen, Red Bull Salzburg, Celtic, Girona, Aston Villa
+Feyenoord has 8 opponents: Manchester City, RB Leipzig, Atalanta, Arsenal, Red Star Belgrade, PSV Eindhoven, Sparta Prague, Monaco
+Sporting CP has 8 opponents: Inter Milan, Bayern Munich, Benfica, Bayer Leverkusen, Young Boys, Celtic, Sturm Graz, Bologna
+PSV Eindhoven has 8 opponents: Liverpool, Inter Milan, Atletico Madrid, Club Brugge, Lille, Feyenoord, Girona, Slovan Bratislava
+Dinamo Zagreb has 8 opponents: Barcelona, RB Leipzig, Shakhtar Donetsk, Arsenal, Lille, Celtic, Sparta Prague, Monaco
+Red Bull Salzburg has 8 opponents: Borussia Dortmund, Bayern Munich, Shakhtar Donetsk, AC Milan, Red Star Belgrade, Young Boys, Brest, Girona
+Lille has 8 opponents: Barcelona, Real Madrid, Atalanta, Juventus, PSV Eindhoven, Dinamo Zagreb, Aston Villa, Slovan Bratislava
+Red Star Belgrade has 8 opponents: Manchester City, Borussia Dortmund, Bayer Leverkusen, Atletico Madrid, Red Bull Salzburg, Feyenoord, VfB Stuttgart, Aston Villa
+Young Boys has 8 opponents: Liverpool, Paris-Saint Germain, Juventus, Club Brugge, Sporting CP, Red Bull Salzburg, Brest, Bologna
+Celtic has 8 opponents: Paris-Saint Germain, Real Madrid, Benfica, AC Milan, Dinamo Zagreb, Sporting CP, VfB Stuttgart, Sturm Graz
+Slovan Bratislava has 8 opponents: Liverpool, Real Madrid, Atalanta, Atletico Madrid, Lille, PSV Eindhoven, Sparta Prague, Aston Villa
+Monaco has 8 opponents: Liverpool, Borussia Dortmund, Arsenal, Club Brugge, Feyenoord, Dinamo Zagreb, Bologna, Girona
+Sparta Prague has 8 opponents: Inter Milan, Bayern Munich, Arsenal, Bayer Leverkusen, Feyenoord, Dinamo Zagreb, Slovan Bratislava, VfB Stuttgart
+Aston Villa has 8 opponents: Barcelona, Paris-Saint Germain, Benfica, AC Milan, Red Star Belgrade, Lille, Slovan Bratislava, Sturm Graz
+Bologna has 8 opponents: Barcelona, RB Leipzig, Atalanta, Shakhtar Donetsk, Young Boys, Sporting CP, Monaco, Brest
+Girona has 8 opponents: Manchester City, Bayern Munich, Juventus, AC Milan, PSV Eindhoven, Red Bull Salzburg, VfB Stuttgart, Monaco
+VfB Stuttgart has 8 opponents: Inter Milan, Real Madrid, Bayer Leverkusen, Club Brugge, Red Star Belgrade, Celtic, Sparta Prague, Girona
+Sturm Graz has 8 opponents: RB Leipzig, Borussia Dortmund, Benfica, Atletico Madrid, Celtic, Sporting CP, Aston Villa, Brest
+Brest has 8 opponents: Manchester City, Paris-Saint Germain, Shakhtar Donetsk, Juventus, Young Boys, Red Bull Salzburg, Bologna, Sturm Graz
