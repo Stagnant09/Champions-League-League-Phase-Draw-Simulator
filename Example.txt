@@ -34,3 +34,4 @@ Girona has 8 opponents: Manchester City, Bayern Munich, Juventus, AC Milan, PSV 
 VfB Stuttgart has 8 opponents: Inter Milan, Real Madrid, Bayer Leverkusen, Club Brugge, Red Star Belgrade, Celtic, Sparta Prague, Girona
 Sturm Graz has 8 opponents: RB Leipzig, Borussia Dortmund, Benfica, Atletico Madrid, Celtic, Sporting CP, Aston Villa, Brest
 Brest has 8 opponents: Manchester City, Paris-Saint Germain, Shakhtar Donetsk, Juventus, Young Boys, Red Bull Salzburg, Bologna, Sturm Graz
+<>
