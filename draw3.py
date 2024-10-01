@@ -17,7 +17,6 @@ class Club:
     def get_opponents(self, home_only=False, away_only=False, pot=None):
         if home_only and away_only:
             raise ValueError("Cannot specify both home_only and away_only")
-        # Single iteration, applying all conditions at once
         return [opp for opp, home_away, pot_ in self.opponents
                 if (not home_only or home_away == "home") and
                 (not away_only or home_away == "away") and
@@ -54,7 +53,6 @@ class Draw:
                 if valid_clubs:
                     picked_club = random.choice(valid_clubs)
                 else:
-                    # Handle case where no valid club is found (e.g., break or raise an error)
                     print(f"{club} of pot {pot[0].pot} cannot find a valid opponent of pot {opponent_pot[0].pot} to match with, {picked_ground}.")
                     picked_ground = "away" if picked_ground == "home" else "home"
                     continue
