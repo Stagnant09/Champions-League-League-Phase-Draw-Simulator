@@ -54,7 +54,7 @@ class Draw:
                 if valid_clubs:
                     picked_club = random.choice(valid_clubs)
                 else:
-                    # Handle case where no valid club is found (e.g., break or raise an error)
+                    # No valid club is found
                     print(f"{club} of pot {pot[0].pot} cannot find a valid opponent of pot {opponent_pot[0].pot} to match with, {picked_ground}.")
                     picked_ground = "away" if picked_ground == "home" else "home"
                     continue
